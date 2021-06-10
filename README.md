@@ -20,5 +20,5 @@ app.get('<path>',function (request,response) {
 
 ### Running in browser
 ```javascript
-app.listen(<desired port number>)
+app.listen(<desaired port number>)
 ```
